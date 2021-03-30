@@ -1,0 +1,24 @@
+<package>
+	<id>jp.akusio.milkyway2</id>
+	<name>MilkyWay2</name>
+	<version>0.2.0</version>
+	<compatibility>
+    <firmware>
+      <miniOS>13.0</miniOS>
+      <maxiOS>13.7</maxiOS>
+      <otherVersions>unconfirmed</otherVersions>
+      <!--
+      for otherVersions, you can put either unsupported or unconfirmed
+      -->
+    </firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+    <description>MilkyWay2</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+    <change>Initial release from https://github.com/akusio/akusio-repo-archive</change>
+	</changelog>
+	<links></links>
+</package>

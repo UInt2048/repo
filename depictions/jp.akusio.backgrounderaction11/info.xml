@@ -1,0 +1,24 @@
+<package>
+	<id>jp.akusio.backgrounderaction11</id>
+	<name>BackgrounderAction11</name>
+	<version>0.0.8</version>
+	<compatibility>
+    <firmware>
+      <miniOS>11.0</miniOS>
+      <maxiOS>11.4.1</maxiOS>
+      <otherVersions>unconfirmed</otherVersions>
+      <!--
+      for otherVersions, you can put either unsupported or unconfirmed
+      -->
+    </firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+    <description>BackgrounderAction11</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+    <change>Initial release from https://github.com/akusio/akusio-repo-archive</change>
+	</changelog>
+	<links></links>
+</package>
