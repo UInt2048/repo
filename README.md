@@ -153,7 +153,7 @@ Build your `Packages` file and compress with `bzip2`.
 ```sh
 user:~/ $ cd repo
 user:~/repo $ dpkg-scanpackages -m ./debs > Packages
-user:~/repo $ bzip2 Packages
+user:~/repo $ bzip2 Packages -k
 ```
 
 _Windows users, see [dpkg-scanpackages-py](https://github.com/supermamon/dpkg-scanpackages-py) or [scanpkg](https://github.com/mstg/scanpkg)._
