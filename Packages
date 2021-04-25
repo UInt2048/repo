@@ -148,7 +148,7 @@ Description: Library to get three different colors from an image and detect if o
 Tag: role::developer
 Author: Litten
 Depiction: https://uint2048.github.io/repo/depictions/?p=love.litten.libkitten
-Icon: https://repo.litten.love/depictions/libktn/assets/icon.png
+Icon: https://raw.githubusercontent.com/UInt2048/repo/main/img/LibKitten.jpg
 Name: libKitten 🐱
 
 Package: love.litten.safariwallpaper
@@ -166,7 +166,7 @@ Section: Litten Archive
 Description: Personalize Safari with a wallpaper
 Author: Litten
 Depiction: https://uint2048.github.io/repo/depictions/?p=love.litten.safariwallpaper
-Icon: https://repo.litten.love/depictions/saw/assets/icon.png
+Icon: https://raw.githubusercontent.com/UInt2048/repo/main/img/SafariWallpaper.jpg
 Name: SafariWallpaper 🌇
 
 Package: love.litten.yuna
@@ -184,5 +184,5 @@ Section: Litten Archive
 Description: Fill that void in iPad's Control Center
 Author: Litten
 Depiction: https://uint2048.github.io/repo/depictions/?p=love.litten.yuna
-Icon: https://repo.litten.love/depictions/yna/assets/icon.png
+Icon: https://raw.githubusercontent.com/UInt2048/repo/main/img/Yuna.jpg
 Name: Yuna 🍃
