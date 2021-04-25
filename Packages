@@ -132,3 +132,61 @@ Author: akusio <akusio-report@neko2.net>
 Depiction: https://uint2048.github.io/repo/depictions/?p=jp.akusio.milkyway2
 Name: MilkyWay2
 
+Package: love.litten.libkitten
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 172
+Depends: firmware (>= 12.0)
+Filename: ./debs/love.litten.libkitten_1.2.1.deb
+Size: 9972
+MD5sum: 7c535d76b29d72385ac2b540c761a6c9
+SHA1: 3b3e6d2ec1c0412c13eb34f792fbabafffc896f7
+SHA256: 691107b526ba6f63ab38ac52cfa91ad0e666e3ce36520cb12f548e9594ae9863
+Section: System
+Description: Library to get three different colors from an image and detect if one is light or dark
+Tag: role::developer
+Author: Litten
+Depiction: https://repo.litten.love/depictions/libktn/index.html
+Icon: https://repo.litten.love/depictions/libktn/assets/icon.png
+Name: libKitten 🐱
+Sileodepiction: https://repo.litten.love/depictions/libktn/libktn.json
+
+Package: love.litten.safariwallpaper
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, love.litten.libkitten
+Filename: ./debs/love.litten.safariwallpaper_1.4.deb
+Size: 231672
+MD5sum: 5b9ddd447dfb12bb41ecaed7827fff78
+SHA1: a7f7535c13f1b613939702b9a346feb2049f1c8a
+SHA256: 8c30dc933ec2bed985ee953774d374f3d98ae396919258490d2b97581072ca14
+Section: Tweaks
+Description: Personalize Safari with a wallpaper
+Author: Litten
+Depiction: https://repo.litten.love/depictions/saw/index.html
+Icon: https://repo.litten.love/depictions/saw/assets/icon.png
+Name: SafariWallpaper 🌇
+Sileodepiction: https://repo.litten.love/depictions/saw/saw.json
+
+Package: love.litten.yuna
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 5280
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.peterdev.libpddokdo, com.mrgcgamer.libgcuniversal
+Filename: ./debs/love.litten.yuna_1.0.1.deb
+Size: 2464924
+MD5sum: 8569f211c108c6d1c6e47ce54070d660
+SHA1: a3d4334456adc78bf9fe812be8c14558bb84d91b
+SHA256: 2859c00eb103bb3f403f284234398e98bda9110b38facd9ab8e8754659a9422e
+Section: Tweaks
+Description: Strawberry cupcakes
+Author: Litten
+Depiction: https://repo.litten.love/depictions/yna/index.html
+Icon: https://repo.litten.love/depictions/yna/assets/icon.png
+Name: Yuna 🍃
+Sileodepiction: https://repo.litten.love/depictions/yna/yna.json
+
