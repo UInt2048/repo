@@ -1,3 +1,21 @@
+Package: com.ps.anywherewidgetsforipad
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), gsc.ipad, firmware (>= 14.0), me.nepeta.iconstate
+Filename: ./debs/com.ps.anywherewidgetsforipad_1.1_iphoneos-arm.deb
+Size: 3946
+MD5sum: 32919c3d0eb20cab89aabe65491cb7f7
+SHA1: 053f8a31d4993b4f3489d38b18ae848a53ac1708
+SHA256: 9193b6b2c44ff74c03771acec69a9f9dcd8af00a12706e67406c993a98f3fb15
+Section: Tweaks
+Description: Allow widgets to be on home screen on iPad.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/anywherewidgetsforipad.html
+Name: Anywhere Widgets for iPad
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/anywherewidgetsforipad.json
+
 Package: com.robottom.customflash
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -180,9 +198,11 @@ Size: 2464924
 MD5sum: 8569f211c108c6d1c6e47ce54070d660
 SHA1: a3d4334456adc78bf9fe812be8c14558bb84d91b
 SHA256: 2859c00eb103bb3f403f284234398e98bda9110b38facd9ab8e8754659a9422e
-Section: Litten Archive
-Description: Fill that void in iPad's Control Center
+Section: Tweaks
+Description: Strawberry cupcakes
 Author: Litten
-Depiction: https://uint2048.github.io/repo/depictions/?p=love.litten.yuna
-Icon: https://raw.githubusercontent.com/UInt2048/repo/main/img/Yuna.jpg
+Depiction: https://repo.litten.love/depictions/yna/index.html
+Icon: https://repo.litten.love/depictions/yna/assets/icon.png
 Name: Yuna 🍃
+Sileodepiction: https://repo.litten.love/depictions/yna/yna.json
+
